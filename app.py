@@ -288,7 +288,7 @@ def main():
     # Groq API Key input
     st.sidebar.markdown("---")
     # groq_api_key = st.sidebar.text_input("Groq API Key", type="password", help="Enter your Groq API key")
-    groq_api_key = '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'
+    groq_api_key = 'YOUR API KEY'
 
     if page == "Create Job Post":
         create_job_post_page()
