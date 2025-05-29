@@ -474,7 +474,7 @@ def shortlist_candidates_page():
             skill_ok = similarity_score >= similarity_threshold
 
             # Determine status
-            if cgpa_ok and exp_ok and skill_ok:
+            if (cgpa_ok or exp_ok) and skill_ok:
                 status = "Shortlisted"
             else:
                 status = "Rejected"
