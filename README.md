@@ -214,6 +214,16 @@ embedding_model = "all-MiniLM-L6-v2"
 
 ## 🚀 Usage Example
 
+![image](https://github.com/user-attachments/assets/6e99fba4-7f22-4469-b5c1-90ca4199c9e9)
+![image](https://github.com/user-attachments/assets/e3404e76-0e89-42f1-89d4-9257ff20a822)
+![image](https://github.com/user-attachments/assets/d12be442-f486-4fd8-a995-0b8067f797a1)
+![image](https://github.com/user-attachments/assets/4aa716bb-9986-4de1-8435-5cb986fd3441)
+
+
+
+
+
+
 ### Complete Workflow Example
 ```
 1. Create Job Post:
