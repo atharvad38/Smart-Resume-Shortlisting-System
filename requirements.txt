@@ -1,0 +1,19 @@
+# Core Web Framework
+streamlit>=1.28.0
+
+# Database
+# sqlite3 is included in Python standard library
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# PDF Processing
+PyMuPDF>=1.23.0
+
+# AI/ML Libraries
+sentence-transformers>=2.2.0
+scikit-learn>=1.3.0
+
+# LLM API
+groq>=0.4.0
